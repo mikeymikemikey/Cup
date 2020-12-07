@@ -1,0 +1,16 @@
+{
+  "name": "cup",
+  "version": "1.0.0",
+  "description": "cup bot for cup server 2.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jowsey",
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^7.1.1",
+    "discord.js": "^12.3.1",
+    "nomar": "^1.1.0"
+  }
+}
